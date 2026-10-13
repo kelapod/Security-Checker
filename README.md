@@ -81,6 +81,9 @@ Then run it with:
 
 The objective of this project is to practise Bash scripting, functions, command-line arguments, conditional statements, loops, Linux commands, input handling, and readable output while learning basic Linux security concepts.
 
- 8. Author
+8. Screenshot
+   (SecurityChecker_Output.png)
+
+ 9. Author
 
 Kelvin Apodi — Linux Security Checker.
